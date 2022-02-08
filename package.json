@@ -1,0 +1,27 @@
+{
+  "name": "safkabot",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node src/index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Juhannuskukkula/SafkaBot.git"
+  },
+  "author": "Tembero",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Juhannuskukkula/SafkaBot/issues"
+  },
+  "homepage": "https://github.com/Juhannuskukkula/SafkaBot#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.15",
+    "ts-node": "^10.5.0",
+    "typescript": "^4.5.5"
+  },
+  "dependencies": {
+    "puppeteer": "^13.2.0"
+  }
+}
