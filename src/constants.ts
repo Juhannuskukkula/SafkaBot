@@ -1,0 +1,1 @@
+export const SOURCE_URL = new URL("https://www.turkuai.fi/turun-ammatti-instituutti/opiskelijalle/ruokailu-ja-ruokalistat/ruokalista-juhannuskukkula-topseli");
